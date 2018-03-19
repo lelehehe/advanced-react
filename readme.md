@@ -1,0 +1,1 @@
+https://github.com/jscomplete/advanced-react/blob/master/views/index.ejs 
