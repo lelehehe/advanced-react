@@ -7,8 +7,8 @@
   "author": "mike",
   "license": "MIT",
   "scripts": {
-    "dev": "pm2 start lib/server.js --watch", 
-    "stop": "pm2 stop all", 
+    "dev": "pm2 start lib/server.js --watch",
+    "stop": "pm2 stop all",
     "logs": "pm2 logs"
   },
   "devDependencies": {
